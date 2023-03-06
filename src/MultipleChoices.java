@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class MultipleChoices {
 
     public static void main(String args[]) {
         String question = "Who is the Greatest Player at all times for soccer?";
